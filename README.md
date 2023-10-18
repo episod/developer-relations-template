@@ -115,7 +115,7 @@ We'll increase the number of integrations going to market by increasing the numb
          <th>🦉 Increase product exposure</th>
          <td>
             <ul>
-               <li>Increase # of unique users using integrations w/</li>
+               <li>Increase # of unique users using integrations w/w</li>
                <li>Diversify integrations into 3 additional categories</li>
             </ul>
          </td>
@@ -130,7 +130,7 @@ We'll increase the number of integrations going to market by increasing the numb
          <td>
             <ul>
                <li>XX% of projects under development for 6 months or more have a ship date expected within the next 6 months.</li>
-               <li>80% of developer questions are answered</li>
+               <li>Maintain 80% developer questions answer rate</li>
                <li>Increase developer resurrection at 2 weeks from X% to YY%</li>
             </ul>
          </td>
@@ -162,25 +162,15 @@ Once we have high confidence a persona will be successful, we should consider ca
 
 The last thing we want is a life-long developer trying the product, hitting a major point of friction, and then leaving with no intent to return.
 
-Campaigns to grow developers don't just start and stop in developer relations – it takes a village to make big changes happen.
+Campaigns to grow developers don't just start and stop in developer relations, we need the help of marketing, product, engineering, design, and even our developers.
 
-
-#### A few possible campaigns
-
-* Become the biggest marketing engine for our developers
-    * Example idea 1
-    * Market to developers how it was done.
-        * Get developers to agree to be a functional case study and share design and integration techniques to further enable more developers
-* Diversify our developer markets to include new integration types
-    * Double down on ML developers by providing Python devs everything they need
-        * Campaign toward students and early stage developers as ways to diversify their research and work
-
+> TODO: Fill in example campaigns
 
 ### Improving developer education
 
-Of all things I can measure from the outside, improving documentation, tutorials, and enablement materials seems the highest priority.
+Of all things measurable from the outside: improving documentation, tutorials, and enablement materials often are the highest priority.
 
-No matter how many developers flow through the door, if they can't find what they need to succeed, they'll go away frustrated. Insufficient documentation is more than just a friction point, it's a crisis that only very few will weather..
+No matter how many developers flow through the door, if they can't find what they need to succeed, they'll go away frustrated. Insufficient documentation is more than just a friction point, it's a crisis that only very few will weather.
 
 A more cohesive education experience is paramount to onboarding and activating developers from all journeys. What are some deterministic, successful experiences developers can have to introduce themselves to everything our platform can do?
 
@@ -265,6 +255,7 @@ Of course, our predicted projects match our identified themes...
 
 ## Definitions
 
+* _friction log_ - a collection of observations (& occasional suggestions) on friction encountered through a developer experience. Think of it like a journal of walking through your platform's metaphorical park. Useful in early stages of joining a developer relations team to introduce an outside perspective. In later stages of team membership, to continue the metaphor, it's important to pick up the easy trash as you go. No use hoarding maps of all the litter in the park.
 * _local metrics_ - metrics within direct influence of the developer relations team, like pageviews, time on page, developer experience survey results, activation rates, feature adoption and breadth, even `XX% of developer relations team agree`
 
 ## Changelog
