@@ -4,7 +4,7 @@ An adaptable draft plan for starting or restarting developer relations programs.
 
 > How to use this: This draft developer plan is meant to be a template you clone for your own organization. The draft references abstract _product_ and treats _developers_ as a very broad category. In reality, your product is more specific and you likely have a subset of the entire developer market in mind. _Bring your own platform problems._ This template is most effective for growth-minded developer relations teams operating directly with product and engineering. There's a lot of XX% and placeholder goals and metrics that I'm looking to make better and more useful for generic inspiration. Suggestions welcome. Next up: a version of this framework applied to a more specific organization.- @episod
 
-Adapt the ideas, plans, suggested projects, metrics, and team structure below to match the developer needs of your organization's product. While some metrics are common across developer product types, it's best to bring what's most important -- most local -- to your team along.
+---
 
 We make our product meaningful for developers. We show you what's possible. We teach you how to do it yourself. We celebrate your wins, help you through your struggles, and we're there when you're ready to do it all over again.
 
