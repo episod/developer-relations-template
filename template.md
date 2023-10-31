@@ -6,7 +6,7 @@ We make our product meaningful for developers. We show you what's possible. We t
 * [Metrics and KPIs](#developer-relations-metrics-and-kpis)
 * [Activating and enabling developers](#activating-and-enabling-developers)
     * Education
-    * Engineering
+    * Experience
     * Events
 
 ## Proposed team structure
@@ -149,11 +149,19 @@ We'll increase the number of integrations going to market by increasing the numb
 
 ## Activating and enabling developers
 
-We want all developers to feel welcome and empowered.
+We want all developers to feel welcome and empowered. We can and will provide them an amazing experience.
 
-With so many developer personas working with us, we must identify common goals and the most important outliers to best serve and enable those most likely (or most _desired_) to succeed. Research and learning is as important for this developer relations team as it is for our developers.
+1. Instrument our developer funnel
+2. Identify primary drop off points
+3. Continously reduce friction and measure impact
+
+With so many developer personas working with us, we must identify common goals and the most important outliers to best serve and enable those most likely (or most _desired_) to succeed. 
+
+Research and continous learning is as important for this developer relations team as it is for our developers.
 
 We also must remain open to doing activities that will not scale to reach outcomes.
+
+### Making platform safe for growth
 
 With an instrumented developer funnel, we should identify the primary points of drop off and propose solutions to alleviate those, especially those that happen earliest in the process or are the biggest indicators of future success.
 
@@ -253,6 +261,18 @@ Of course, our predicted projects match our identified themes...
          </td>
       </tr>
 </table>
+
+### Engineering a developer experience worth having
+
+### Event strategy
+
+Our events strategy is conservative, opportunistic, and patient.
+
+Every developer relations program has an events strategy. Sponsoring, attending, and hosting events can be an expensive distraction with intangible rewards.
+
+Being where your developers are is important. Our developers are on the internet. All of them. Most developers who will ever use our product will never attend a meetup, conference, or join our Discord.
+
+
 
 ## License
 
