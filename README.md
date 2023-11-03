@@ -1,4 +1,4 @@
-# Developer relations anywhere
+# How to use the "developer relations anywhere" template
 
 Use this [adaptable draft plan](template.md) when starting or restarting developer relations programs.
 
