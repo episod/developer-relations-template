@@ -272,7 +272,15 @@ Every developer relations program has an events strategy. Sponsoring, attending,
 
 Being where your developers are is important. Our developers are on the internet. All of them. Most developers who will ever use our product will never attend a meetup, conference, or join our Discord.
 
+Every segment has its influencers and reaching them might happen at an event or through the press that echoes after.
 
+But the single most important event in the confluence of our product and a developer's life is to be present, in mind, and useful in a time of need. Our event strategy focuses on making us top of mind at the right time and place, not on building a lead pipeline giving away free stuff, or building a library of single-serving content.
+
+#### Python developers
+
+We aren't paying enough attention to Python developers. This is true everywhere. We must make our Python developer experience best in class and then make it the most obvious choice for use in our problem space. 
+
+We will sponsor PyCon this year first with the goal of better understanding its conference-going community and best-in-class modern tools. Next year we will sponsor again and highlight how we put to use what we learned.
 
 ## License
 

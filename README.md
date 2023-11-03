@@ -2,6 +2,8 @@
 
 Use this [adaptable draft plan](template.md) when starting or restarting developer relations programs.
 
+The author recognizes these plans bias toward platform-oriented companies offering APIs and developer tools. I am used to a developer relations being a mix of advocacy, support, engineering, product management, and developer marketing. Through thick and thin, developer relations ends up responsible for everything necessary to take care of developer
+
 ---
 
 ## How to use this
@@ -10,9 +12,9 @@ This [draft developer plan](template.md) is meant to be a template cloned for yo
 
 The draft references abstract _platform product_ and treats _developers_ as a very broad category. 
 
-In reality, your product is more specific and you likely have a subset of the entire developer market in mind. _Bring your own platform problems._ 
+In reality, your product is more specific and you likely have a subset of the entire developer market in mind. _Bring your own platform problems._
 
-This template is most effective for growth-minded developer relations teams operating directly with product and engineering. There are _XX%_ and similar placeholder goals and metrics for rather generic inspiration. 
+This template is most effective for growth-minded developer relations teams operating directly with product and engineering. There are _XX%_ and similar placeholder goals and metrics for rather generic inspiration.
 
 **Suggestions or improvements welcome**. This belongs to all of us!
 
@@ -22,8 +24,10 @@ This template is most effective for growth-minded developer relations teams oper
 * _local metrics_ - metrics within direct influence of the developer relations team, like pageviews, time on page, developer experience survey results, activation rates, feature adoption and breadth, even `XX% of developer relations team agree`
 
 ## Changelog
+
 * October 2023 - moved from Google Docs to Github to better enable community collaboration and adaptation. Re-organizing content and content about content.
 * June 2023 - first draft authored by [Taylor Singletary](https://linkedin.com/in/taylorsingletary) (@episod)
+
 
 ## License
 
