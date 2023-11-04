@@ -17,3 +17,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+extra:
+  analytics:
+    provider: google
+    property: G-N3P13C48TR
