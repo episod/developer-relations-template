@@ -2,13 +2,6 @@
 
 We make our product meaningful for developers. We show you what's possible. We teach you how to do it yourself. We celebrate your wins, help you through your struggles, and we're there when you're ready to do it all over again.
 
-* [Proposed team structure](#proposed-team-structure)
-* [Metrics and KPIs](#developer-relations-metrics-and-kpis)
-* [Activating and enabling developers](#activating-and-enabling-developers)
-    * Education
-    * Experience
-    * Events
-
 ## Proposed team structure
 
 With a clear north star, the most effective developer relations teams will "divide and conquer" responsibilities even when the team is just starting out with 1-4 individuals and these roles are combined. As teams grow larger, these four disciplines must increasingly collaborate together to deliver meaningful developer experiences. Of course, we might not have _permission_ to own all these areas, but to operate effectively we must build influence and trust to accomplish our common goals.
