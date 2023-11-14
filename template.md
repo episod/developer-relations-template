@@ -257,6 +257,12 @@ Of course, our predicted projects match our identified themes...
 
 ### Engineering a developer experience worth having
 
+We believe that building tools and SDKs for developers is an investment leading to more productive developers and a shorter time to coding business logic.
+
+Building SDKs enables us to better engage developers where they are and with their preferences in mind. It provides us additional avenues to encourage and reward a thriving ecosystem.
+
+Our tools and SDKs also provide us valuable data and opportunties to guide developers to the most successful outcomes.
+
 ### Event strategy
 
 Our events strategy is conservative, opportunistic, and patient.
@@ -269,11 +275,32 @@ Every segment has its influencers and reaching them might happen at an event or 
 
 But the single most important event in the confluence of our product and a developer's life is to be present, in mind, and useful in a time of need. Our event strategy focuses on making us top of mind at the right time and place, not on building a lead pipeline giving away free stuff, or building a library of single-serving content.
 
-#### Python developers
+#### Schedule
 
-We aren't paying enough attention to Python developers. This is true everywhere. We must make our Python developer experience best in class and then make it the most obvious choice for use in our problem space. 
-
-We will sponsor PyCon this year first with the goal of better understanding its conference-going community and best-in-class modern tools. Next year we will sponsor again and highlight how we put to use what we learned.
+<table>
+   <thead>
+      <tr>
+         <th>Audience</th>
+         <th>Event</th>
+         <th>Cost</th>
+         <th>Goals</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>Python developers</th>
+         <td>PyCon</td>
+         <td>$5,000</td>
+         <td>
+            <ul>
+               <li>Understand what's current and unique in the Python ecosystem</li>
+               <li>Connect with ML and AI developers and show them how our product fits with their interests</li>
+               <li>Recruit developer relations engineers to build our Python SDK</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
 
 ## License
 
