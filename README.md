@@ -27,9 +27,13 @@ Customize the template as you learn about your company, its platform, and its de
 * _friction log_ - a collection of observations (& occasional suggestions) on friction encountered through a developer experience. Think of it like a journal of walking through your platform's metaphorical park. Useful in early stages of joining a developer relations team to introduce an outside perspective. In later stages of team membership, to continue the metaphor, it's important to pick up the easy trash as you go. No use hoarding maps of all the litter in the park.
 * _local metrics_ - metrics within direct influence of the developer relations team, like pageviews, time on page, developer experience survey results, activation rates, feature adoption and breadth, even `XX% of developer relations team agree`
 
+## Thanks to
+
+Thank you to the one who helped with my first Perl ah-ha moment, it's guided the way since. Thank you for the tips, tricks, traps, trouble, and trust Brandon, Jim, Adam, Ryan, Amir, and Bear. Teams are where the dream becomes reality and the teams I work with teach me what's possible and probably at every turn. Thanks to LinkedIn, (the original) Twitter, Clever, and Slack for letting me stumble through devrel origin stories. And thank you to the partners in crime I depend on all the time.
+
 ## Changelog
 
-* November 2023 - continue developing the README.md framing
+* November 2023 - continue developing the README.md framing, move to [`https://devrel.realitytechnicians.com/`](https://devrel.realitytechnicians.com/)
 * October 2023 - moved from Google Docs to Github to better enable community collaboration and adaptation. Re-organizing content and content about content.
 * June 2023 - first draft authored by [Taylor Singletary](https://linkedin.com/in/taylorsingletary) (@episod)
 
