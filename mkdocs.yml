@@ -1,5 +1,6 @@
 site_name: Developer relations anywhere template
 repo_url: https://github.com/episod/developer-relations-template/
+site_url: https://devrel.realitytechnicians.com/
 theme:
   name: material
   palette:
