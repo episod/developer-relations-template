@@ -1,10 +1,14 @@
 # How to use the "developer relations anywhere" template
 
-Use this [adaptable draft plan](template.md) when starting or restarting developer relations programs.
+This is a adaptable template to build [draft developer relations plans](template.md) when starting or restarting developer relations programs.
 
-It may be useful during an interview process. It can guide you once you have the job. It's here for you if you're working to reset a team. Maybe you're just curious what @episod thinks developer relations _is_ some years into doing it.
+![Developer activation, Fantastic Planet style](http://realitytechnicians.com/img/fantastic-planet-mount-head.gif "Developer activation, Fantastic Planet style")
 
-Infinite thanks to the world's developers first and foremost. You are why we are here. Thank you to everyone in developer relations, product, engineering, and marketing I've learned from over the years. DevRel holds all the functions within if you let it. If you want it. If you live it.
+One way to use this template is to organize your understanding of an organization's needs during the interview process. You can remove what's not relevant to their goals, add your hunches and analysis as they develop.
+
+This template can then translate well in developing your plans over the next several months and years as your developer ecosystem matures.
+
+I've been extraordinarily lucky to work in the early days of technical evangelism, developer relations, and platform management at a number of companies and this template represents my approach to tackling _developer relations anywhere_.
 
 ---
 
@@ -22,10 +26,29 @@ Customize the template as you learn about your company, its platform, and its de
 
 **Suggestions or improvements welcome**. This belongs to all of us!
 
-## Definitions
+## Customization suggestions
 
-* _friction log_ - a collection of observations (& occasional suggestions) on friction encountered through a developer experience. Think of it like a journal of walking through your platform's metaphorical park. Useful in early stages of joining a developer relations team to introduce an outside perspective. In later stages of team membership, to continue the metaphor, it's important to pick up the easy trash as you go. No use hoarding maps of all the litter in the park.
-* _local metrics_ - metrics within direct influence of the developer relations team, like pageviews, time on page, developer experience survey results, activation rates, feature adoption and breadth, even `XX% of developer relations team agree`
+### Team structure
+
+If your team is just starting out and it's only you, use this section to help guide and divide the work your team of one has to accomplish. Maybe you don't have partners yet and don't need to help them hands-on. Maybe your company is already setup to serve developers well with their own documentation or tools team.
+
+All these categories are your responsibility in developer relations whether another team owns the work product around them or not. As you identify your weak spots and how you could better serve your unique developer audience, begin hiring those who can make a major impact in one or more of these specializations.
+
+### Metrics
+
+_Local_ metrics are within direct influence of the developer relations team, like pageviews, time on page, developer experience survey results, activation rates, feature adoption and breadth, even measurements like `XX% of developer relations team agree` on a path forward.
+
+## Activation
+
+You want as many developers or visitors to reach an ah-ha moment that convinces them your solution is the right one, provided it is.
+
+From that point forward, every piece of friction in their experience can stop them from successfully accomplishing their goal.
+
+Reducing friction reduces time to business logic. The joy in programming is there, in the business logic.
+
+Build a _friction log_ however you see fit, as a collection of observations (& occasional suggestions) on friction encountered through a developer experience.
+
+Think of it like a journal kept while walking through your platform's metaphorical park. Useful in early stages of joining a developer relations team to introduce an outside perspective. In later stages of team membership, to continue the metaphor, it's important to pick up the easy trash as you go. No use hoarding maps of all the litter in the park.
 
 ## Thanks to
 
@@ -37,6 +60,10 @@ Thank you to the one who helped with my first Perl ah-ha moment, it's guided the
 * October 2023 - moved from Google Docs to Github to better enable community collaboration and adaptation. Re-organizing content and content about content.
 * June 2023 - first draft authored by [Taylor Singletary](https://linkedin.com/in/taylorsingletary) (@episod)
 
+## TODOs
+
+* Add variant templates for different types of developer products (Web APIs, developer tools, databases, etc)
+* Add campaign examples for growth efforts
 
 ## License
 
