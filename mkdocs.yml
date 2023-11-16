@@ -3,6 +3,10 @@ repo_url: https://github.com/episod/developer-relations-template/
 site_url: https://devrel.realitytechnicians.com/
 site_author: Taylor Singletary
 
+nav:
+  - 'README': 'index.md'
+  - 'Template': 'template.md'
+
 theme:
   name: material
   palette:

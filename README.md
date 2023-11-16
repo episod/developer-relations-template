@@ -61,7 +61,7 @@ Thank you to the one who helped with my first Perl ah-ha moment, it's guided the
 
 * November 2023 - continue developing the README.md framing, move to [`https://devrel.realitytechnicians.com/`](https://devrel.realitytechnicians.com/)
 * October 2023 - moved from Google Docs to Github to better enable community collaboration and adaptation. Re-organizing content and content about content.
-* June 2023 - first draft authored by [Taylor Singletary](https://linkedin.com/in/taylorsingletary) (@episod)
+* June 2023 - first draft authored by [Taylor Singletary](https://www.realitytechnicians.com) (@episod)
 
 ## TODOs
 
