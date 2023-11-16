@@ -2,8 +2,6 @@
 
 This is a adaptable template to build [draft developer relations plans](template.md) when starting or restarting developer relations programs.
 
-![Developer activation, Fantastic Planet style](http://realitytechnicians.com/img/fantastic-planet-mount-head.gif "Developer activation, Fantastic Planet style")
-
 One way to use this template is to organize your understanding of an organization's needs during the interview process. You can remove what's not relevant to their goals, add your hunches and analysis as they develop.
 
 This template can then translate well in developing your plans over the next several months and years as your developer ecosystem matures.
