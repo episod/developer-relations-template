@@ -1,4 +1,7 @@
-# Developer relations anywhere
+---
+title: Developer relations anywhere template
+description: A template you can use to help you start or restart a developer relations function or team.
+---
 
 We make our product meaningful for developers. We show you what's possible. We teach you how to do it yourself. We celebrate your wins, help you through your struggles, and we're there when you're ready to do it all over again.
 

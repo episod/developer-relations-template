@@ -1,3 +1,8 @@
+---
+title: About the DevRel anywhere template
+description: Learn how to use the developer relations anywhere template to help start or restart a developer relations function at your organization.
+---
+
 # How to use the "developer relations anywhere" template
 
 This is a adaptable template to build [draft developer relations plans](template.md) when starting or restarting developer relations programs.
