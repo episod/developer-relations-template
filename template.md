@@ -169,7 +169,7 @@ The last thing we want is a life-long developer trying the product, hitting a ma
 
 Campaigns to grow developers don't just start and stop in developer relations, we need the help of marketing, product, engineering, design, and even our developers.
 
-### Improving developer education
+### Developer education
 
 Of all things measurable from the outside: improving documentation, tutorials, and enablement materials often are the highest priority.
 

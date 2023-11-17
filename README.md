@@ -37,9 +37,17 @@ If your team is just starting out and it's only you, use this section to help gu
 
 All these categories are your responsibility in developer relations whether another team owns the work product around them or not. As you identify your weak spots and how you could better serve your unique developer audience, begin hiring those who can make a major impact in one or more of these specializations.
 
+As your team grows and each specialization team becomes their own thing, you need to find ways to mix and remix the cross-functional work together. Usually one or more people on the team will emerge as "operators" who cross the boundaries of 2 or 3 different teams, contributing to sample apps, documentation, product development, and advocacy all at the same time. Take a penny, leave a quarter kind of work.
+
 ### Metrics
 
-_Local_ metrics are within direct influence of the developer relations team, like pageviews, time on page, developer experience survey results, activation rates, feature adoption and breadth, even measurements like `XX% of developer relations team agree` on a path forward.
+Developer relations is largely a faith-based operation. You believe that your work is going to make a developer more likely to succeed and that a developer's success is good for your platform.
+
+That belief, along with empathy, motivates most decisions developer relations teams will make day-to-day. Just as you don't want your team to watch the clock like their work is a form of torture, you also don't want to focus _overmuch_ on trailing metrics you don't have much direct control on.
+
+_Local_ metrics are within direct influence of the developer relations team. You can increase time on page. You can encourage readers through a specific funnel. You can reduce error rates in the CLI. Identifying friction is quantifying friction. Reduced friction is a local metric in developer relations' control and will, with faith, influence developer activation and enablement. Developer relations _can_ drive feature adoption and breadth. Your platform is best when your developer relations team loves it; `XX% of developer relations team agrees X is good` is a measure worth tracking.
+
+Find what is locally relevant for your team.
 
 ## Activation
 
@@ -55,7 +63,7 @@ Think of it like a journal kept while walking through your platform's metaphoric
 
 ## Thanks to
 
-Thank you to the one who helped with my first Perl ah-ha moment, it's guided the way since. Thank you for the tips, tricks, traps, trouble, and trust Brandon, Jim, Adam, Ryan, Amir, and Bear. Teams are where the dream becomes reality and the teams I work with teach me what's possible and probably at every turn. Thanks to LinkedIn, (the original) Twitter, Clever, and Slack for letting me stumble through devrel origin stories. And thank you to the partners in crime I depend on all the time.
+Thank you to the one who helped with my first Perl ah-ha moment, it's guided the way since. Thank you for the tips, tricks, traps, trouble, and trust Brandon, Jim, Adam, Ryan, Amir, and Bear. Teams are where the dream becomes reality and the teams I work with teach me what's possible and probably at every turn. Thanks to LinkedIn, (the original) Twitter, Clever, and Slack for letting me stumble through devrel origin stories. And thank you to the partners in crime I depend on and learn from all the time.
 
 ## Changelog
 
