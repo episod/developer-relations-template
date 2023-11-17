@@ -37,7 +37,7 @@ The entire developer relations organization shares responsibility and builds par
     * We want our customers and partners to succeed and sometimes that means teaming up to go above and beyond.
 * **Developer support and advocacy**
     * Everyone benefits from experiencing the platform, tools, and documentation from the perspective of those we serve.
-    * Developer support happens on Slack, Discord, in Github issues & pull requests, in customer and partner calls, and wherever else developers bring their needs.
+    * Developer support happens on Slack, Discord, in GitHub issues & pull requests, in customer and partner calls, and wherever else developers bring their needs.
     * Everyone uses their "in the field" experience to improve the product and developer experience by becoming a trusted _voice of the developer_.
 * **Producing tutorial and workshop content**
     * Utilizing the expertise required from each discipline results in more effective, inter-connected learning materials that scale with complexity
@@ -49,7 +49,7 @@ This team organization assumes that a developer marketing function and a busines
 
 ## Developer relations metrics and KPIs
 
-Our developer relations organization is metrics-driven. To impact company-wide KPIs, we'll identify, hypothesize, and experiment with metrics local to our work and influence. We can adapt how we measure and set goals whether the organization prefers loose planning, OKRs, or V2MOMs. We're here to take care of developers no matter what the company is up to.
+Our developer relations organization uses metrics to inform our decision making. To impact company-wide KPIs, we'll identify, hypothesize, and experiment with metrics local to our work and influence. We can adapt how we measure and set goals whether the organization prefers loose planning, OKRs, or V2MOMs. We're here to take care of developers no matter what the company is up to.
 
 Without knowing our business too deeply, we start with baseline assumptions that:
 
